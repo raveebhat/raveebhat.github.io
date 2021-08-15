@@ -1,8 +1,0 @@
-.clearfix {
-    display: inline-block;
-}
-
-.clearfix::after {
-    content: "";
-    clear: both;
-}
